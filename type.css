@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Urbanist:wght@100&display=swap");
+
+h1 {
+  font-size: 1.2em;
+  color: rgb(119, 0, 255);
+  display: inline-block;
+  background-color: rgb(241, 191, 191);
+}
+h2 {
+  font-size: 1.2em;
+  color: purple;
+}
+
+h5 {
+  font-size: 1.2em;
+  color: purple;
+  border: 1px rgb(90, 88, 88);
+  /* width: 120px; */
+  box-sizing: border-box;
+}
+h3 {
+  font: size 25px;
+  color: purple;
+}
+
+.text {
+  color: brown;
+}
+a {
+  color: steelblue;
+}
+a:visited {
+  color: green;
+}
+nav:hover {
+  color: red;
+}
+P {
+  display: inline;
+  color: purple;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 25px;
+}
+nav {
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: rgb(233, 226, 217);
+}
